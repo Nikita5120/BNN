@@ -1,0 +1,11 @@
+torch
+torchbnn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+shap
+scipy
+streamlit_authenticator
